@@ -1,6 +1,6 @@
 # PRODIGY_CS_02
 
-# Image Encryptor/Decryptor
+## Image Encryptor/Decryptor
 
 A simple GUI-based application to encrypt and decrypt images using  image pixels and a user-provided key. This tool uses Python's `Pillow` and `NumPy` libraries for image manipulation and `Tkinter` for the graphical user interface.
 
