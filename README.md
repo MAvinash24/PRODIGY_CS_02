@@ -45,7 +45,7 @@ cd PRODIGY_CS_02
 
 3. Run the tool:
 ```bash
-python pixel_manipulation.py
+python image_pixel_manipulation.py
 ```
 
 ---
